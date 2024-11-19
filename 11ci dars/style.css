@@ -1,0 +1,168 @@
+*{
+    padding:0 ;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+h2{
+    color: rgb(255, 253, 253);
+font-family: Inter;
+font-size: 28px;
+font-weight: 600;
+line-height: 34px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 30px;
+width: 277px;
+}
+
+h3{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+margin: 40px 40px;
+}
+
+
+
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header{
+    background-image: url(./img/slider2\ 1.png);
+    padding: 42px ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration: none;
+}
+
+nav{
+    display: flex;
+    gap: 40px;
+}
+
+input {
+    background: rgb(255, 255, 255);
+    width: 300px;
+height: 50px;
+border: none;
+text-indent: 10px ;
+}
+
+header button{
+    width: 109px;
+height: 55px;
+background: rgb(118, 185, 0);
+border: none;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 88px;
+}
+
+.card1{
+    width: 290px;
+height: 302px;
+box-shadow: 0px 17px 27px -4px rgba(0, 0, 0, 0.25);
+background: rgb(255, 255, 255);
+}
+
+.card-tittle{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: center;
+padding: 21px 37px;
+}
+
+.cardbtn{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.card-content{
+    display: flex;
+    gap:40px;
+    justify-content: center;
+
+}
+
+.content p{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.content button{
+    width: 233px;
+height: 62px;
+background: rgb(118, 185, 0);
+border: none;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.content{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
